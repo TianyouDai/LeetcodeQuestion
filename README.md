@@ -1,2 +1,4 @@
 # LeetcodeQuestionAtEasyLevel
-A goal of finishing 50 Leet Code Questions at an easy level by November 2019. 
+A goal of finishing 50 Leet Code Questions at an easy level.
+
+
