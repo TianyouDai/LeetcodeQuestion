@@ -4,6 +4,6 @@ A goal of finishing 100 Leet Code Questions at an easy level.
 
 Start Date: May 26, 2019
 
-By November 24, 2019, I have completed 74 questions so far.
+By November 30, 2019, I have completed 78 questions so far.
 
 
