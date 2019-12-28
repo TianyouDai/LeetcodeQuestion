@@ -6,6 +6,3 @@ class Solution:
             k += i
             res = res if res > k else k 
         return res
-            
-            
-        
